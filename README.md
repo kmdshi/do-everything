@@ -17,10 +17,10 @@ In the process of this project, I worked with the BLoC pattern as a state manage
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-**telegram** - [(Contact me)](https://t.me/vtelegpam)<br />
-**Project Link** : [(Share project link)](https://github.com/whois-kami/do-everything)
+**telegram** - [(Contact me)](https://t.me/kmdshi)<br />
+**Project Link** : [(Share project link)](https://github.com/kmdshi/do-everything)
 
 ## ⚙️ Demo
-https://github.com/whois-kami/do-everything/assets/118660818/ecb90ab0-a6e3-4649-97c2-6c88d52181fb
+https://github.com/kmdshi/do-everything/assets/118660818/ecb90ab0-a6e3-4649-97c2-6c88d52181fb
 
 
